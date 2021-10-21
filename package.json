@@ -1,0 +1,23 @@
+{
+  "name": "git-ast",
+  "version": "1.0.0",
+  "description": "git ast parser",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/git-ast.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "SEE LICENSE IN LICENNSE",
+  "bugs": {
+    "url": "https://github.com/sambacha/git-ast/issues"
+  },
+  "homepage": "https://github.com/sambacha/git-ast#readme"
+}
